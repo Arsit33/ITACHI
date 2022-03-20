@@ -10,7 +10,7 @@
 Button : To Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/VaseemStarkJr3000/Chitoge)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Arsit33/Chitoge)
 
 
 </div><br/>
