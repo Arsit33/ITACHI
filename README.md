@@ -7,7 +7,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-Button : To Deploy
+Button : To Deploy ITACHI 💪
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Arsit33/Chitoge)
